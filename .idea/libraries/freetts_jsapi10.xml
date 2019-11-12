@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="freetts-jsapi10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/speech ditionaries/freetts-jsapi10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/speech ditionaries/cmu_us_kal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/speech ditionaries/en_us.jar!/" />
+      <root url="jar://$PROJECT_DIR$/speech ditionaries/cmu_time_awb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/speech ditionaries/freetts.jar!/" />
+      <root url="jar://$PROJECT_DIR$/speech ditionaries/mbrola.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
